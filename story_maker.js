@@ -34,5 +34,4 @@ document.getElementById('two').innerHTML = paragraph2;
 document.getElementById('three').innerHTML = paragraph3;
 document.getElementById('four').innerHTML = paragraph4;
 document.getElementById('five').innerHTML = paragraph5;
-document.getElementById('benny').style.display = 'none';
 }
